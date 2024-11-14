@@ -560,4 +560,7 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
+.terraform
+.tfplan
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,node,svelte
